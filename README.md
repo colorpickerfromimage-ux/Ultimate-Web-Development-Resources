@@ -204,7 +204,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Paletton](http://paletton.com)
 - [Color Hex](http://color-hex.com)
 - [ColorSpace](https://mycolor.space/)
-- [Color Picker](https://imagecolorpicker.com/en#google_vignette)
+- [Color Picker](https://colorpickerfromimage.net/)
 - [MyColor](http://mycolor.space)
 - [Khroma](https://www.khroma.co/)
 - [UIColorPicker](https://uicolorpicker.com/)
